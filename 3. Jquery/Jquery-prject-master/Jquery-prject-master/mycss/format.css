@@ -1,0 +1,32 @@
+.head{
+
+}
+.header {
+    height: 50px;
+    width: 100%;
+    background: aquamarine;
+    position: relative;
+}
+
+.left {
+    background: chocolate;
+    height: 1000px;
+    width: 20%;
+    float: left;
+}
+
+.content {
+    background: bisque;
+    height: 1000px;
+    width:80%;
+    float: right;
+    margin: center
+
+}
+
+.footer {
+    background: #cfd3ee;
+    height: 100px;
+    width: 100%;
+    clear: both;
+}
